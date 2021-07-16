@@ -3,6 +3,6 @@
 
 - 😍 Adoro JavaScript y Python.
 
-- 🎈 Proyectos desarrollados; [Aura Bot List](https://auralist.glitch.me), Kidory Hentai (Discord Bot), [Kidory Web](https://www.kidory.tk) y algunos pequeños scripts para uso propio.
+- 🎈 Proyectos desarrollados: [Aura Bot List](https://auralist.ml), [Postulaciones Bot](https://discord.gg/28eRkP7Gsj) (Discord Bot)  y algunos pequeños scripts/bots para uso propio.
 
 - 📫 Contactame a traves de [Discord](https://discordapp.com/users/709131461374246932/ 'Go to newalvaro9 discord profile')
