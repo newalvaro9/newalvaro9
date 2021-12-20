@@ -1,5 +1,5 @@
 <h1 align="center">newalvaro9</h1>
-<h3 align="center">Advanced Bot Developer and Beginner in Frontend/Backend</h3>
+<h3 align="center">Advanced Bot Developer and Beginner in Frontend/Backend (NodeJS)</h3>
 
 - 😍 Adoro JavaScript y Python.
 
