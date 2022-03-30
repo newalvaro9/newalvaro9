@@ -1,5 +1,5 @@
 <h1 align="center">Álvaro</h1>
-<h2 align="center">Web developer specialized in backend</h2>
+<h2 align="center">Web developer</h2>
 
 <h3 align="left">Languages, environments and frameworks</h3>
 <p align="left">
