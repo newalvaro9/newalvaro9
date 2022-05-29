@@ -1,7 +1,7 @@
 <h1 align="center">Álvaro</h1>
 <h2 align="center">Trying to be Fullstack</h2>
 
-<h3 align="left">Languages, environments and frameworks</h3>
+<h3 align="left">Languages, libraries, environments and frameworks</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="./images/html.svg" alt="html" width="40" height="40"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="./images/css.svg" alt="css" width="40" height="40"></a> 
