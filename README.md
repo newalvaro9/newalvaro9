@@ -5,7 +5,8 @@
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="./images/html.svg" alt="html" width="40" height="40"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="./images/css.svg" alt="css" width="40" height="40"></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./images/javascript.svg" alt="javascript" width="40" height="40"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./images/javascript.svg" alt="javascript" width="40" height="40"></a>
+  <a href="https://nodejs.org" target="_blank"> <img src="./images/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://mongodb.com" target="_blank"> <img src="./images/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="./images/python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="./images/react.svg" alt="react" width="40" height="40"/> </a>
