@@ -13,7 +13,7 @@
   <a href="https://nextjs.org/" target="_blank"> <img src="./images/nextjs.png" alt="next" width="40" height="40"/> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newalvaro9&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newalvaro9&layout=compact)
 
 
 - 📫 Reach me trough [Discord](https://discordapp.com/users/709131461374246932/ 'Go to newalvaro9 discord profile') or [Email](mailto:vfxalv@gmail.com 'vfxalv@gmail.com') (vfxalv@gmail<span>.</span>com)
