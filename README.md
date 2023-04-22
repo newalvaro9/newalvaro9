@@ -1,5 +1,5 @@
 <h1 align="center">Álvaro</h1>
-<h2 align="center">Backend Developer</h2>
+<h2 align="center">Fullstack developer</h2>
 
 <h3 align="left">Languages, libraries, environments and frameworks</h3>
 <p align="left">
