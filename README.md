@@ -12,6 +12,8 @@
   <a href="https://www.python.org" target="_blank"> <img src="./images/python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="./images/react.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="./images/nextjs.png" alt="next" width="40" height="40"/> </a>
+  <a href="https://cplusplus.com/" target="_blank"> <img src="./images/cpp.png" alt="cpp" width="40" height="40"/> </a>
+  
 </p>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newalvaro9&layout=compact)
