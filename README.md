@@ -19,4 +19,4 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newalvaro9&layout=compact)
 
 
-- 📫 Reach me trough [Discord](https://discordapp.com/users/709131461374246932/ 'Go to newalvaro9 discord profile') or [Email](mailto:vfxalv@gmail.com 'vfxalv@gmail.com') (vfxalv@gmail<span>.</span>com)
+- 📫 Reach me trough Discord (@newalvaro9) or [Email](mailto:vfxalv@gmail.com 'vfxalv@gmail.com') (vfxalv@gmail<span>.</span>com)
