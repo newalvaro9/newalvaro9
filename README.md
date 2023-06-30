@@ -20,3 +20,5 @@
 
 
 - 📫 Reach me trough Discord (@newalvaro9) or [Email](mailto:vfxalv@gmail.com 'vfxalv@gmail.com') (vfxalv@gmail<span>.</span>com)
+
+<script>console.log("Hello World")</script>
