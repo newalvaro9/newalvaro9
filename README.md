@@ -7,4 +7,4 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newalvaro9&layout=compact)
 
 
-- 📫 Reach me trough Discord (newalvaro9) or [Email](mailto:alvaro.poblador@mail.ru) (alvaro.poblador@mail<span>.</span>ru).
+- 📫 Reach me trough Discord (newalvaro9) or [email](mailto:alvaro.poblador@mail.ru) (alvaro.poblador@mail<span>.</span>ru).
